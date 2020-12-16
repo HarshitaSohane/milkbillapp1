@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MilkBill</string>
+    <string name="textview1">TextView1</string>
+    <string name="textview2">TextView2</string>
+    <string name="textview3">TextView3</string>
+    <string name="add">ADD</string>
+    <string name="view">VIEW</string>
+    <string name="total">total</string>
+    <string name="clear">CLEAR</string>
+    <string name="date">Date</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="buff_milk">Buff_Milk</string>
+    <string name="cow_milk">Cow_Milk</string>
+    <string name="enter_quantity">Enter quantity</string>
+    <string name="entr_quantity">Entr Quantity</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="_1">1</string>
+    <string name="_1_5">_1.5</string>
+
+</resources>
